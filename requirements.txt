@@ -1,0 +1,10 @@
+streamlit
+pandas
+scikit-learn
+spacy
+python-docx
+PyMuPDF
+fpdf
+firebase-admin
+google-auth
+joblib
